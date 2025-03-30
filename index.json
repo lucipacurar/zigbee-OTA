@@ -4627,7 +4627,8 @@
     "manufacturerCode": 4447,
     "sha512": "a7fec7851a60696fb4f482f8fbbcfd638631bc460dca328427351baaf3a0c65a85191d450dab96700dd46c2ca9228efcd9a30c909d598718fe60210ee551d4f8",
     "otaHeaderString": "ROUTERX-----JN5180--ENCRYPTED000",
-    "modelId": "lumi.plug.mmeu01"
+    "modelId": "lumi.plug.mmeu01",
+    "force": true
   },
   {
     "fileName": "OTA_lumi.relay.c4acn01_V2.1.20_201900821_8FFEC9.20190906162416.ota",
