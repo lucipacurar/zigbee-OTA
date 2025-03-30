@@ -1,5 +1,16 @@
 [
   {
+    "fileName": "OTA_lumi.plug.mmeu01_V22_20190906_D32362.20191008105750.ota",
+    "fileVersion": 22,
+    "fileSize": 276030,
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Lumi/OTA_lumi.plug.mmeu01_V22_20190906_D32362.20191008105750.ota",
+    "imageType": 16408,
+    "manufacturerCode": 4447,
+    "sha512": "a7fec7851a60696fb4f482f8fbbcfd638631bc460dca328427351baaf3a0c65a85191d450dab96700dd46c2ca9228efcd9a30c909d598718fe60210ee551d4f8",
+    "otaHeaderString": "ROUTERX-----JN5180--ENCRYPTED000",
+    "modelId": "lumi.plug.mmeu01"
+  },
+  {
     "fileName": "ota_t0x300a_m0x1209_v0x36081514.ota",
     "fileVersion": 906499348,
     "fileSize": 168427,
